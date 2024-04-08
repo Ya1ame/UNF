@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="4a1b1b30-827a-412e-8fd6-89c55fd61f11" extendedConfigurationObject="c18aed98-9a38-4a4f-bee4-1b6977344491">
+  <producedTypes>
+    <objectType typeId="4b3ed744-db40-49f4-a4ae-02b369b3e1cc" valueTypeId="cb733c9f-75f2-41c1-ada9-3ca6f354d467"/>
+    <refType typeId="bf7509a2-b746-4abc-8c1a-1bcac23a5ada" valueTypeId="1544b996-9424-4675-87bf-de792264573b"/>
+    <selectionType typeId="002fcbaf-8cf0-470d-b533-46aa961ac223" valueTypeId="c569b92d-feae-4a25-8529-77b183b709c1"/>
+    <listType typeId="4ccc4ea1-ce4a-4de1-b19d-ee219aa4dc5b" valueTypeId="de15c3ae-00c2-4331-9d16-555c5ba9a788"/>
+    <managerType typeId="c837dbe7-0daa-4b7e-94de-2fc81c323ef0" valueTypeId="c855245c-0f23-4a08-902a-b5b852bedced"/>
+  </producedTypes>
+  <name>СтатьиДвиженияДенежныхСредств</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <codeLength>Extended</codeLength>
+    <codeAllowedLength>Checked</codeAllowedLength>
+    <descriptionLength>Extended</descriptionLength>
+    <codeType>Extended</codeType>
+    <predefined>Extended</predefined>
+  </extension>
+  <codeLength>9</codeLength>
+  <descriptionLength>100</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <predefined>
+    <items id="b339de79-bf04-48db-a1de-1b814c1fadc5">
+      <name>ОперационнаяДеятельность</name>
+      <description>Операционная деятельность</description>
+      <extension xsi:type="mdclassExtension:PredefinedItemExtension">
+        <state>AdoptedCheck</state>
+      </extension>
+      <code xsi:type="core:StringValue">
+        <value>00-000010</value>
+      </code>
+      <isFolder>true</isFolder>
+      <content id="340b1dbb-37e1-4eab-b87f-115ba05b6493">
+        <name>ОперационныеПоступления</name>
+        <description>Поступления</description>
+        <extension xsi:type="mdclassExtension:PredefinedItemExtension">
+          <state>AdoptedCheck</state>
+        </extension>
+        <code xsi:type="core:StringValue">
+          <value>00-000007</value>
+        </code>
+        <isFolder>true</isFolder>
+        <content id="62923b8c-36fe-4131-8346-6358b720380b">
+          <name>ОплатаОтПокупателей</name>
+          <description>Оплата от покупателей</description>
+          <extension xsi:type="mdclassExtension:PredefinedItemExtension">
+            <state>AdoptedCheck</state>
+          </extension>
+          <code xsi:type="core:StringValue">
+            <value>00-000003</value>
+          </code>
+        </content>
+      </content>
+    </items>
+  </predefined>
+</mdclass:Catalog>

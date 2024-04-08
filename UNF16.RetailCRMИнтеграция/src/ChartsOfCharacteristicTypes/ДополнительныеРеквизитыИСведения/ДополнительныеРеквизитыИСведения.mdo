@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ChartOfCharacteristicTypes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="e29e318a-0e16-44ee-ad67-f693cf00d908" extendedConfigurationObject="1055d15b-8cb5-4ff0-a526-7fd20a08a96c">
+  <producedTypes>
+    <objectType typeId="0b747349-4a03-436a-902c-505c0cbc7de2" valueTypeId="c663be44-d0d2-49d0-b983-aeb90c6304a6"/>
+    <refType typeId="0fabe69b-5068-435d-b75f-769addcd14b8" valueTypeId="2ad6ba75-c9d7-459c-8ec6-01dc1a8196be"/>
+    <selectionType typeId="c7616614-44ba-4adc-b5d7-443ea14b79da" valueTypeId="0e0b295d-a3c4-4cb5-8992-25043ecd55d3"/>
+    <listType typeId="fb235708-5041-4a1b-b67e-6bb7291ef98a" valueTypeId="f06068ed-5356-4a15-a87b-29f0f4018787"/>
+    <managerType typeId="85f2170b-d81e-4b0b-89bb-cd9a9e08ad01" valueTypeId="ffe5b253-c527-4553-9c00-e04b10fa9cf1"/>
+    <containerType typeId="9a8a97c1-8638-4891-afa3-c8c135c74201" valueTypeId="f3f08dfc-e27a-4c5b-b4b8-778f21c47794"/>
+  </producedTypes>
+  <name>ДополнительныеРеквизитыИСведения</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ChartOfCharacteristicTypesExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <typeExtension/>
+  </extension>
+  <type/>
+  <attributes uuid="8556c00b-c7d5-4b56-8253-b2015685f370" extendedConfigurationObject="af88ea84-5742-4c9f-9a02-6d0f25186f72">
+    <name>Заголовок</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <typeExtension>
+        <types>
+          <state>Checked</state>
+          <type>String</type>
+        </types>
+        <stringQualifiers>
+          <length>75</length>
+        </stringQualifiers>
+      </typeExtension>
+    </extension>
+    <type/>
+  </attributes>
+  <attributes uuid="ec35cac8-ef08-42cf-85e6-95f52217aa04" extendedConfigurationObject="79ad09ba-875a-46bd-9cd9-9d084bf4f6ea">
+    <name>НаборСвойств</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <typeExtension>
+        <types>
+          <state>Checked</state>
+          <type>CatalogRef.НаборыДополнительныхРеквизитовИСведений</type>
+        </types>
+      </typeExtension>
+    </extension>
+    <type/>
+  </attributes>
+</mdclass:ChartOfCharacteristicTypes>

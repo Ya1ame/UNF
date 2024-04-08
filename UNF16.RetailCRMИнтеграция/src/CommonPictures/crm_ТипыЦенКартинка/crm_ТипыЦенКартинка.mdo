@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9723e525-d11c-41eb-a59d-1aa749353a14">
+  <name>crm_ТипыЦенКартинка</name>
+  <synonym>
+    <key>ru</key>
+    <value>Типы цен картинка</value>
+  </synonym>
+</mdclass:CommonPicture>

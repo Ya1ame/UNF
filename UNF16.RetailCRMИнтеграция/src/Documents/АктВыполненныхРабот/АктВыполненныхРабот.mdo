@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="63083857-44df-4aeb-8e70-4157ec8e73ec" extendedConfigurationObject="10817a05-c443-4ea7-bffd-9e1ea6b93a60">
+  <producedTypes>
+    <objectType typeId="999e17fe-f9e4-42ed-89be-4d9c24b33469" valueTypeId="ada4a183-adae-4295-b4c7-6d993da3c8d4"/>
+    <refType typeId="b045c393-1323-4493-9ccb-219c177a26ae" valueTypeId="a4af0ed9-3cb5-4bfa-b7e6-eafbd2157699"/>
+    <selectionType typeId="bbd3a227-ecdd-4191-99ba-f789254876d0" valueTypeId="b510948a-eab6-41cc-b193-fa958b418aab"/>
+    <listType typeId="025dacc7-5151-408e-a341-d528c7fa01f8" valueTypeId="a73ce947-7ea7-4e99-b9c2-28c3c868af70"/>
+    <managerType typeId="9eff0c72-dcd7-40d1-ae92-b1e619cd85b5" valueTypeId="a7d4812d-c30c-47e4-a6de-1835892803b7"/>
+  </producedTypes>
+  <name>АктВыполненныхРабот</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <useStandardCommands>true</useStandardCommands>
+  <commands uuid="c14cfe1f-15a2-469c-9a7e-77e14dfa1d7f" extendedConfigurationObject="b9fa4b5a-e8ee-4980-84cc-cfc5d72a3118">
+    <name>СоздатьИзНоменклатуры</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicCommandExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <group>Checked</group>
+    </extension>
+    <group>FormNavigationPanelSeeAlso</group>
+  </commands>
+</mdclass:Document>

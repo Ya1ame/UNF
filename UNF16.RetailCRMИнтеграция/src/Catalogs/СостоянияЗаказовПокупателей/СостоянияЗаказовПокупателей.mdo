@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="35314a95-6e90-482d-a891-db2aa3e0d902" extendedConfigurationObject="a2b1dc61-98ce-4fe4-ae3d-fabbd7218633">
+  <producedTypes>
+    <objectType typeId="e7d32a2a-3d40-4e14-bd4d-2e80ddc8b6f7" valueTypeId="2a385545-e557-4871-9bdf-da1f680ebbdd"/>
+    <refType typeId="5e98d88d-aa01-4902-ba1b-94ca9ebb7e69" valueTypeId="360fbe0d-2b7b-4883-9ee6-e17cd34a9092"/>
+    <selectionType typeId="25bfaee9-a847-46e3-bd28-a16eb5f423ce" valueTypeId="14a51d24-f170-41a4-9b11-a0a4089e2fdc"/>
+    <listType typeId="f388dbc0-e1ba-4a54-a12c-957196f60de7" valueTypeId="7ec38484-1ee8-405e-b3f4-f04392b90afd"/>
+    <managerType typeId="05340a9b-ef21-4958-bbc3-346f78aae475" valueTypeId="f510114c-8ed8-45e0-8f7f-a22421487d88"/>
+  </producedTypes>
+  <name>СостоянияЗаказовПокупателей</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <codeLength>Extended</codeLength>
+    <codeAllowedLength>Checked</codeAllowedLength>
+    <descriptionLength>Extended</descriptionLength>
+    <codeType>Extended</codeType>
+  </extension>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+</mdclass:Catalog>

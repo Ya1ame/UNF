@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="4e8c1c41-ace3-48ad-a258-26d798741e08" extendedConfigurationObject="9650cee0-43d9-437e-94cb-98135702b751">
+  <producedTypes>
+    <refType typeId="7f30ab08-d61c-4430-a22e-bb8539f35e08" valueTypeId="f0a415ce-2850-4c0a-8d64-3a647473443c"/>
+    <listType typeId="b0546ad6-e866-4cf4-994c-9d6dfd170a39" valueTypeId="29db2b97-6547-4ef7-b44d-770f36ee2e37"/>
+    <managerType typeId="71c1aba3-d2fb-4f4a-9e45-b27b5c862c58" valueTypeId="835f0bf7-0ff2-415d-90a2-d7a3a4ed804c"/>
+  </producedTypes>
+  <name>ВидыКиЗГИСМ</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+</mdclass:Enum>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="050ae609-0c92-4e30-b5d8-4b4cab4a7dc5" extendedConfigurationObject="8fd6c801-99bd-4e78-9b62-190762b9190c">
+  <producedTypes>
+    <objectType typeId="36ef9b7a-ad9a-4e97-8fd2-a8afe540c0e7" valueTypeId="7cdcdc3d-22e3-4d6b-852f-77e0008f4fb5"/>
+    <refType typeId="f6039997-299e-42e3-9507-92e9d63cfe90" valueTypeId="a2733487-d801-446f-ba25-a2b358f0d688"/>
+    <selectionType typeId="c6e3f616-854f-4f96-a5d8-cb60bbdf6e2f" valueTypeId="0a1f81ec-bc3d-4bdf-97b0-f5dbf86b230e"/>
+    <listType typeId="d4b2217a-9a3a-43c6-84b5-f2480ce1afc1" valueTypeId="c35fb740-ad40-4691-a8b9-32c39ddcdaab"/>
+    <managerType typeId="ecbf1673-72a8-47ae-a6b9-3b95f2e94018" valueTypeId="c3afbf55-5f25-437f-9b84-ea879b8c3aec"/>
+  </producedTypes>
+  <name>ХозяйственныеОперации</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <codeLength>Extended</codeLength>
+    <codeAllowedLength>Checked</codeAllowedLength>
+    <descriptionLength>Extended</descriptionLength>
+    <codeType>Extended</codeType>
+    <predefined>Extended</predefined>
+  </extension>
+  <descriptionLength>150</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <predefined>
+    <items id="899e6cf9-aa73-4005-a192-d52ca8aa080f">
+      <name>ЗаказНаПродажу</name>
+      <description>Заказ на продажу</description>
+      <extension xsi:type="mdclassExtension:PredefinedItemExtension">
+        <state>AdoptedCheck</state>
+      </extension>
+      <code xsi:type="core:StringValue">
+        <value></value>
+      </code>
+    </items>
+  </predefined>
+</mdclass:Catalog>

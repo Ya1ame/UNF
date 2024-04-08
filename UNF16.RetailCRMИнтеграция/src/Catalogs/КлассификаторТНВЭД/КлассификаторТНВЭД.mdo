@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="2c6f0753-3a0b-46f5-a8e8-fbb60103e601" extendedConfigurationObject="464034c1-ff86-4fe9-ac89-e359c72a9486">
+  <producedTypes>
+    <objectType typeId="59385931-3b8f-43f7-904c-6792b316157f" valueTypeId="5342f949-2d66-4fb5-aa77-9cd5bc838e37"/>
+    <refType typeId="d671678a-dcee-43b0-8109-8e6744b7eb8b" valueTypeId="d6d5cb59-c93c-408b-8fb7-b1bf48f53007"/>
+    <selectionType typeId="0a78095e-5882-4f7e-a8ef-c61702438ab4" valueTypeId="ef70f8a4-9705-483c-84c5-03ef1d752b9b"/>
+    <listType typeId="6813e032-b2f4-41fd-9e56-c0de57795869" valueTypeId="fae1cc0e-2c18-482a-ae50-e99dadf3c974"/>
+    <managerType typeId="0480dc3f-83ee-47cc-8791-de96710f98f9" valueTypeId="c26accbc-937e-4863-8699-cc8cc3c8acfd"/>
+  </producedTypes>
+  <name>КлассификаторТНВЭД</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+</mdclass:Catalog>

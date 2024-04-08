@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="fc2822fa-eb26-490c-86e5-b0bad87093e0" extendedConfigurationObject="70b1e79e-6d89-4577-b3d3-2578d976c69e">
+  <producedTypes>
+    <refType typeId="a3add980-0344-41f6-99a9-8bc8c6c8f03b" valueTypeId="9e8e0875-3a02-4ec7-b28d-3a3c80fc1f4d"/>
+    <listType typeId="aca465e3-054d-4e51-a12e-44986ea3735a" valueTypeId="156bbc1a-5582-4b19-b00a-9fd5136dbe2f"/>
+    <managerType typeId="0df2bac3-70bd-4c60-b848-f8fd8be7279f" valueTypeId="99a1d92a-e625-4ab3-8756-36bb9240b448"/>
+  </producedTypes>
+  <name>Периодичность</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+</mdclass:Enum>

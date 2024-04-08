@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="e8aa5cfb-c4eb-4f49-bdca-986e43debe94" extendedConfigurationObject="5978aaee-45ea-4975-9863-5cb7557adeab">
+  <producedTypes>
+    <objectType typeId="c80878b3-735a-45b2-a5e8-089bc211ed3a" valueTypeId="770a1120-bec5-426b-8891-761c0725f53a"/>
+    <refType typeId="7330b0e7-e114-4ccc-b739-8f7e22f424a5" valueTypeId="8b5199a6-8261-4bb1-b421-dd359e580b6d"/>
+    <selectionType typeId="ce353b12-aaf4-4d95-a667-03aa2639b22c" valueTypeId="6921e672-942c-4cb0-8f46-ea9a5b9454b1"/>
+    <listType typeId="da8fb2a4-66e7-41b7-a6ab-fe9f4b023bc8" valueTypeId="549fbe01-6370-49c5-9d36-a5f3a1303243"/>
+    <managerType typeId="76500ed0-f28b-4ae0-8ce0-a9844d9fefb8" valueTypeId="b0e6c64b-33a4-4ff3-a47c-ae0e390fc514"/>
+  </producedTypes>
+  <name>ИсточникиПривлеченияПокупателей</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <attributes uuid="af9d664f-aef4-4106-9fee-05b5c67f28e8">
+    <name>crm_КодRetail</name>
+    <synonym>
+      <key>ru</key>
+      <value>Crm код retail</value>
+    </synonym>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension"/>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>50</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Catalog>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="5e9af464-037f-4b18-84cc-6a3df4e9594c" extendedConfigurationObject="e557f2c9-6893-4523-9b13-07e678b2778a">
+  <producedTypes>
+    <objectType typeId="ce40c977-20a7-465b-bc6a-23e6ab255712" valueTypeId="180ec9d9-cb47-4b48-906d-d73ab14357cc"/>
+    <refType typeId="cba51e68-75a8-4e56-837d-f2c42ae65249" valueTypeId="0767976a-075e-4af2-b2a3-8d125e8dbc24"/>
+    <selectionType typeId="d5989f9b-4149-4331-9899-22fe4d10f23a" valueTypeId="13c1942c-acc1-44ba-91ee-a87d47421f69"/>
+    <listType typeId="209f153f-5d68-41f4-b87b-7d91022c25ec" valueTypeId="8ad23f7f-292a-48ba-8f22-077326e3254f"/>
+    <managerType typeId="4c4ef77d-6a07-4cd9-92ed-70d4037de2d3" valueTypeId="11b7ad04-57b6-4a4d-8dc4-3443fc0e94b7"/>
+  </producedTypes>
+  <name>РасходнаяНакладная</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <objectModule>Extended</objectModule>
+  </extension>
+  <attributes uuid="4e039f74-fcc8-444e-91af-9f39a0708f56" extendedConfigurationObject="a2a715dc-bcd2-491e-872d-d5422c4eaf75">
+    <name>Заказ</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <typeExtension>
+        <types>
+          <state>Checked</state>
+          <type>AnyRef</type>
+        </types>
+      </typeExtension>
+    </extension>
+  </attributes>
+  <commands uuid="c0f4f873-63b5-4865-ab9a-886b67789125" extendedConfigurationObject="acbdaaeb-85a1-4825-af6f-9eb3dfee113f">
+    <name>СоздатьИзНоменклатуры</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicCommandExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <group>Checked</group>
+    </extension>
+    <group>FormNavigationPanelSeeAlso</group>
+  </commands>
+</mdclass:Document>

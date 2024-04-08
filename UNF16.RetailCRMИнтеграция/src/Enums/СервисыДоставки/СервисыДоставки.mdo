@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="b36278af-e778-44cd-989e-4339708331c8" extendedConfigurationObject="3c9b8c09-5ae3-477f-8554-c8db219fdda0">
+  <producedTypes>
+    <refType typeId="117a61f1-61f3-44b8-9b53-7c6d522ebe57" valueTypeId="1b646db4-42fd-41e1-97a0-c48560a39c62"/>
+    <listType typeId="d15d35a3-3259-4a10-a3ce-584ebdb92843" valueTypeId="be7f2c93-1605-47f4-849f-eb490276aab3"/>
+    <managerType typeId="363a20e3-384a-4cbe-9180-b748c3559190" valueTypeId="931bbcb8-ca4d-4be3-832c-fc6102b7e15a"/>
+  </producedTypes>
+  <name>СервисыДоставки</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <enumValues uuid="43aea764-f860-4608-b26e-70e0490e1eff" extendedConfigurationObject="ad097391-3034-4980-adb5-ec53cc48b57f">
+    <name>ЯндексДоставка</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="05e95348-dcb5-46ef-85b2-18c2e380030a" extendedConfigurationObject="e4d40c81-fc6e-46c5-8cc4-c9834544a182">
+    <name>Сервис1СДоставка</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="2d6872f1-92e8-4efc-9c4e-d1b4840a5b00" extendedConfigurationObject="72f6b39f-5596-4cac-b583-c022533f6a53">
+    <name>Сервис1СКурьер</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+</mdclass:Enum>

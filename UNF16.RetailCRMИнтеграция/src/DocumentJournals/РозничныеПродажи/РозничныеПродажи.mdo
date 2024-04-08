@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DocumentJournal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="5a5bc761-755f-4df2-8dc8-2771d1a82e97" extendedConfigurationObject="b8ba526e-dfb7-4f5f-84b0-2b308becd606">
+  <producedTypes>
+    <selectionType typeId="a3079aeb-288d-4093-99fb-5d3369276327" valueTypeId="d96b491f-2a45-439b-b316-830f0c0c45cd"/>
+    <listType typeId="b9d300b9-8af2-4952-9376-ee8a41f4464e" valueTypeId="46dca3b8-fac3-43ed-8bfd-1865fdeef843"/>
+    <managerType typeId="1fa8fa43-fb35-4a85-a19c-2ae787c3ed1a" valueTypeId="24df25a1-66f3-456f-a6cc-6320f551f608"/>
+  </producedTypes>
+  <name>РозничныеПродажи</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentJournalExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <useStandardCommands>true</useStandardCommands>
+  <columns uuid="4e2c788d-285f-43d6-bcd2-34848e767d38" extendedConfigurationObject="6d1008e2-c8e2-4d9e-bba1-257aac5b0ca4">
+    <name>Покупатель</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:ColumnExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </columns>
+</mdclass:DocumentJournal>

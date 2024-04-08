@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="2696efe7-a0dc-4de2-bc2b-52b52d4f35da" extendedConfigurationObject="bfd8a708-f45e-44e7-bcd0-d6d6b985ef12">
+  <producedTypes>
+    <objectType typeId="4ff4c057-6bd7-436c-9379-6b918a394283" valueTypeId="cbe416ed-9ede-4b5b-9e06-c34734022f04"/>
+    <refType typeId="cef8feb8-cd89-4b9c-879e-9df0069ec642" valueTypeId="cefb8096-f147-497f-b87f-b573969db478"/>
+    <selectionType typeId="377df576-97c6-49dd-b35f-e68bda7338a1" valueTypeId="acd45a4a-e45c-4ec9-a654-d5ec58e89f36"/>
+    <listType typeId="56bf53ee-98ac-478f-95e5-d4e14a877ec2" valueTypeId="d0aa3345-75f9-4503-9314-58dce2e457a7"/>
+    <managerType typeId="0f1c0251-2254-4901-8b4a-eec49e9b89ba" valueTypeId="b9e51c29-7b70-4d65-83fe-bdf06443047b"/>
+  </producedTypes>
+  <name>ПриходнаяНакладная</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <attributes uuid="d21265ac-f982-4ac9-bb7a-b897cd0c8ea8" extendedConfigurationObject="8dbf159e-2c15-4fcb-89e0-ab2654f501aa">
+    <name>ДокументОснование</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <typeExtension>
+        <types>
+          <state>Checked</state>
+          <type>AnyRef</type>
+        </types>
+      </typeExtension>
+    </extension>
+  </attributes>
+  <attributes uuid="f1db6179-7cc8-493e-986f-d68ce283f7e4" extendedConfigurationObject="9e7d151f-0e35-4425-9391-b53e9d15a1db">
+    <name>ВидОперации</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <typeExtension>
+        <types>
+          <state>Checked</state>
+          <type>EnumRef.ВидыОперацийПриходнаяНакладная</type>
+        </types>
+      </typeExtension>
+    </extension>
+  </attributes>
+  <commands uuid="d72d6a0a-8e05-49fc-a8e8-00a6c95fd6a5" extendedConfigurationObject="64646c38-015d-4aa6-9cdd-2fca523d9ce5">
+    <name>СоздатьИзНоменклатуры</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicCommandExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <group>Checked</group>
+    </extension>
+    <group>FormNavigationPanelSeeAlso</group>
+  </commands>
+</mdclass:Document>

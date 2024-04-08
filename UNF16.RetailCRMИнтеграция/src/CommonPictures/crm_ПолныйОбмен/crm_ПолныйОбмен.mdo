@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d409f289-d1b3-4138-b793-6a13c36b1bc2">
+  <name>crm_ПолныйОбмен</name>
+  <synonym>
+    <key>ru</key>
+    <value>Полный обмен</value>
+  </synonym>
+</mdclass:CommonPicture>

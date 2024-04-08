@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="31466314-b64f-4a92-8e64-921608a77060" extendedConfigurationObject="8711b331-cef2-41f4-8536-236670f816d8">
+  <producedTypes>
+    <objectType typeId="a8119221-904c-4c5a-9d7c-e957ceb578f9" valueTypeId="5dae01ed-b0ac-4b49-92e5-91fc9c43f014"/>
+    <refType typeId="c8bf25b3-4e4b-4705-938b-1725941918bc" valueTypeId="2cbc6446-42f5-4035-a6c5-c9e14ae9e8f7"/>
+    <selectionType typeId="37bda379-1c90-4426-a8d3-689c928b8967" valueTypeId="eeb274e5-0978-4eca-8912-253e980d2c81"/>
+    <listType typeId="c84af8ac-0d05-4403-a708-7ea20a9366d1" valueTypeId="e5bfd54b-8614-4084-a031-36c16d7a081f"/>
+    <managerType typeId="01c18a07-2283-46e9-9d0a-1a789db709c4" valueTypeId="5f2a8129-ed46-45f1-8f03-28a495a69b42"/>
+  </producedTypes>
+  <name>РезервированиеЗапасов</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+</mdclass:Document>

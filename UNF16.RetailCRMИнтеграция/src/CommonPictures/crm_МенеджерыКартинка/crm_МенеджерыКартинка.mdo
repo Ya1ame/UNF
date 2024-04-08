@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="efb2251e-f1c9-460b-b9c4-a908506522eb">
+  <name>crm_МенеджерыКартинка</name>
+  <synonym>
+    <key>ru</key>
+    <value>Менеджеры картинка</value>
+  </synonym>
+</mdclass:CommonPicture>

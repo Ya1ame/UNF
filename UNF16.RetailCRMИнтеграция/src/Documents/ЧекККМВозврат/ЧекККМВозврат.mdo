@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="61e67624-a989-4c50-becf-e67bab794dd0" extendedConfigurationObject="5c87dde9-1727-48e8-aef5-67317291c046">
+  <producedTypes>
+    <objectType typeId="af6117ee-6279-432a-94a4-b5500c69523a" valueTypeId="3834ab40-bf77-4a53-9f98-b50b791d75e7"/>
+    <refType typeId="bfbdb302-cc29-49be-8e50-21be0035ea4d" valueTypeId="622a4f32-b5f9-4f16-ba25-f170daba29f2"/>
+    <selectionType typeId="6cc6d3bd-8c83-4dff-a115-11daff1777b8" valueTypeId="fe7459fb-05c4-4478-90b1-3ced1e311b1b"/>
+    <listType typeId="eb8c1429-b712-4105-9cc0-b3ff762d44c3" valueTypeId="f2c11a15-6188-4123-a5d2-6e7a5b45a358"/>
+    <managerType typeId="5cd1facd-e93a-43e6-99c3-521d6c301bf2" valueTypeId="9cccd73e-5c98-4c29-85b6-414f9bc3d49f"/>
+  </producedTypes>
+  <name>ЧекККМВозврат</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <useStandardCommands>true</useStandardCommands>
+  <attributes uuid="03507af2-35f8-4215-9e9c-d5223dd9e8f7" extendedConfigurationObject="bd45dd34-68ed-4dc8-9b10-e1a258567dc8">
+    <name>СуммаДокумента</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <typeExtension>
+        <types>
+          <state>Checked</state>
+          <type>Number</type>
+        </types>
+        <numberQualifiers>
+          <precision>15</precision>
+          <scale>2</scale>
+        </numberQualifiers>
+      </typeExtension>
+    </extension>
+  </attributes>
+</mdclass:Document>

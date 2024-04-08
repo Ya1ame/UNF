@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="08a3c9dc-807d-4ca7-bc94-879c37baeaca" extendedConfigurationObject="2186b103-f68e-4fdc-80a1-6dacced11af6">
+  <producedTypes>
+    <objectType typeId="4cebf38b-952d-465f-8268-f8005c052328" valueTypeId="845ca7ab-1aca-44d6-b92e-2a3c4f88f03e"/>
+    <refType typeId="525cec9b-079d-4bbf-8ecc-a9d45f4fe0fb" valueTypeId="e027328b-4cc0-4b73-8b95-71da95d0c4ef"/>
+    <selectionType typeId="66e18522-efeb-4ed5-812f-3c3f02efd88f" valueTypeId="43f15afa-5a5e-4f5c-9bd3-427cd5fada5f"/>
+    <listType typeId="553d1527-3014-40b0-acd3-abb6e7b232f3" valueTypeId="f7da1054-c2a9-462a-b755-5818fe8fd646"/>
+    <managerType typeId="e312463e-dc04-416f-88e9-54bb27e8fdf1" valueTypeId="261c20cb-e368-4541-878a-fed00d006493"/>
+  </producedTypes>
+  <name>СчетНаОплату</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <useStandardCommands>true</useStandardCommands>
+  <commands uuid="63341f36-e10c-4ce7-ad90-0bd4f39d1fd8" extendedConfigurationObject="cce484f3-5ab2-49f2-a684-449d8717a27a">
+    <name>СоздатьИзНоменклатуры</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicCommandExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <group>Checked</group>
+    </extension>
+    <group>FormNavigationPanelSeeAlso</group>
+  </commands>
+</mdclass:Document>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8e3fe28b-2fc3-4d6d-ba57-d9014579973f">
+  <producedTypes>
+    <managerType typeId="9492a378-6daf-4103-a177-1475e35460fb" valueTypeId="93117476-8113-4b68-82ae-cad5043b6d27"/>
+    <valueManagerType typeId="a71c7efd-ff5e-41d0-8196-e02ec7a810bf" valueTypeId="669c1fab-658e-4da7-aee0-b3f544a41b40"/>
+    <valueKeyType typeId="87668471-7369-426d-9cd3-713c1208669f" valueTypeId="0ecb2428-5f1f-4251-afe4-4c990710bd89"/>
+  </producedTypes>
+  <name>crm_УчтенаяЗаписьСКонстантами</name>
+  <synonym>
+    <key>ru</key>
+    <value>Учтеная запись с константами</value>
+  </synonym>
+  <type>
+    <types>CatalogRef.Пользователи</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

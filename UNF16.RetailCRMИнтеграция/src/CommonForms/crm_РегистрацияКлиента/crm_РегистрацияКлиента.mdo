@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonForm xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a78eea1a-591e-4a3f-9898-65cbc0e21522">
+  <name>crm_РегистрацияКлиента</name>
+  <synonym>
+    <key>ru</key>
+    <value>Регистрация клиента</value>
+  </synonym>
+  <usePurposes>PersonalComputer</usePurposes>
+  <usePurposes>MobileDevice</usePurposes>
+</mdclass:CommonForm>

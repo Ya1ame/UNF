@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a2944167-0c50-47e9-a7a6-522dc70525c1">
+  <name>crm_RetailCRMОбщийВызовСервера</name>
+  <synonym>
+    <key>ru</key>
+    <value>Crm retail CRMОбщий вызов сервера</value>
+  </synonym>
+  <server>true</server>
+  <serverCall>true</serverCall>
+</mdclass:CommonModule>

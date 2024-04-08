@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="89d7ff5d-9369-4657-91c8-73806bb5b40f">
+  <name>crm_Logo</name>
+  <synonym>
+    <key>ru</key>
+    <value>Crm logo</value>
+  </synonym>
+  <transparentPixel>
+    <x>313</x>
+    <y>63</y>
+  </transparentPixel>
+</mdclass:CommonPicture>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="791efa11-def1-4cf4-aa4d-e349ea1b9d5c" extendedConfigurationObject="2dd69f18-777d-4dca-89dc-707359ec3078">
+  <producedTypes>
+    <objectType typeId="c346b3a6-57ec-48ee-b7b7-a8ae1155f1fa" valueTypeId="f1790e5d-54ac-4f13-bce0-a535025de67a"/>
+    <refType typeId="de74f9b2-8d1f-4a17-8df1-4bf6dfe642c2" valueTypeId="5a3192dc-e4ab-4836-8691-9c6ba937320d"/>
+    <selectionType typeId="623a7673-5dec-41da-9ec2-55825e502c46" valueTypeId="b652c96c-1091-4cb0-ac5e-a0c0de044c32"/>
+    <listType typeId="b44b236d-af3a-4ec1-aca6-9a863b89aea1" valueTypeId="6e0655c7-18f5-441e-95ea-f46d12bd939c"/>
+    <managerType typeId="109544c5-1c3f-4946-87a3-ade1feeb33c0" valueTypeId="25a5d81e-3b47-4357-96ea-8882e7f73cef"/>
+  </producedTypes>
+  <name>КассыККМ</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:Catalog>

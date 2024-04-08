@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "settings": {
+    "documentation-comment-hub": {
+      "enabled": false
+    },
+    "form-ql-hub": {
+      "enabled": false
+    },
+    "module-consecutive-blank-lines": {
+      "enabled": true
+    },
+    "dcs-ql-hub": {
+      "enabled": false
+    }
+  }
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="46fafc58-0ea3-4b13-9477-b39368b86457" extendedConfigurationObject="f3485b53-c447-4b51-8a87-ed842c7cd798">
+  <producedTypes>
+    <objectType typeId="8ea22a55-ef6d-4eea-86cb-c2be6f4646f2" valueTypeId="c40c8b88-1f12-4e8a-b8a8-cd7dab80c6be"/>
+    <refType typeId="3ab3fea1-e98f-435f-a484-6b457e5e3187" valueTypeId="123fa805-2c56-4e0c-942b-1b26d236ddf6"/>
+    <selectionType typeId="723cb894-f209-4c9a-ab05-9b189649303f" valueTypeId="6b626e1d-75e3-480d-9504-8bb07978aead"/>
+    <listType typeId="1f7d2dc6-b338-4efe-bc3e-57e1ae331395" valueTypeId="2d482a32-2370-4343-bee1-a03972a7b799"/>
+    <managerType typeId="fcf9ae41-2420-4ff8-a176-ad66c20e6c87" valueTypeId="1d59d013-7d70-4a51-8d71-9cf85e9b1586"/>
+  </producedTypes>
+  <name>ДоговорыКонтрагентов</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+</mdclass:Catalog>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="f19fca53-7dd4-4db1-a8e0-4539fe0c4dcb" extendedConfigurationObject="90c54cdb-3887-427a-bb26-a00e68a7f036">
+  <producedTypes>
+    <objectType typeId="d2d4604b-e591-4dd4-8b63-e37301895942" valueTypeId="23412799-9568-43b8-ac01-c131ed38902a"/>
+    <refType typeId="6deae09e-2a9f-47a1-a644-16fcefcbfb5b" valueTypeId="762faf73-82f2-40c0-b8a9-1da331a7dbfe"/>
+    <selectionType typeId="c172367a-ffc4-4540-83af-66737902bbf1" valueTypeId="b625d9b3-9b09-4a42-ade4-f04e8d1f9af3"/>
+    <listType typeId="de3f20a6-38b8-4899-b3e3-261b87830147" valueTypeId="eccd0bf0-c3e2-4377-8395-18e15fe5b9c1"/>
+    <managerType typeId="6b5c7cdf-64d8-4555-ba16-af600d12d09b" valueTypeId="3c2ae017-8399-4ae1-a925-ac4cac38cc6c"/>
+  </producedTypes>
+  <name>ВидыЗаказовПокупателей</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <codeLength>Extended</codeLength>
+    <codeAllowedLength>Checked</codeAllowedLength>
+    <descriptionLength>Extended</descriptionLength>
+    <codeType>Extended</codeType>
+    <predefined>Extended</predefined>
+  </extension>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <predefined>
+    <items id="fd6e6f60-17ce-4ba6-8a28-83b79f79a4ca">
+      <name>Основной</name>
+      <description>Основной</description>
+      <extension xsi:type="mdclassExtension:PredefinedItemExtension">
+        <state>AdoptedCheck</state>
+      </extension>
+      <code xsi:type="core:StringValue">
+        <value></value>
+      </code>
+    </items>
+  </predefined>
+</mdclass:Catalog>
