@@ -93,7 +93,7 @@
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="dbc55ef4-69c7-4253-9632-5c99170b6e9b">
-    <name>БонусныеБаллыПЛ</name>
+    <name>crm_БонусныеБаллыПЛ</name>
     <synonym>
       <key>ru</key>
       <value>Бонусные баллы</value>
