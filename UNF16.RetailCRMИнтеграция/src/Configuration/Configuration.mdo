@@ -195,7 +195,6 @@
   <documents>Document.СчетНаОплату</documents>
   <documents>Document.АктВыполненныхРабот</documents>
   <documents>Document.ЗаказПоставщику</documents>
-  <documentJournals>DocumentJournal.РозничныеПродажи</documentJournals>
   <enums>Enum.ВидыОперацийЗаказПокупателя</enums>
   <enums>Enum.ТипыНалогообложенияНДС</enums>
   <enums>Enum.СпособыДоставки</enums>
@@ -229,7 +228,6 @@
   <dataProcessors>DataProcessor.МенеджерПодсказок</dataProcessors>
   <informationRegisters>InformationRegister.ДополнительныеСведения</informationRegisters>
   <informationRegisters>InformationRegister.ЦеныНоменклатуры</informationRegisters>
-  <informationRegisters>InformationRegister.СостоянияПоОбъектамУчетаЭДО</informationRegisters>
   <accumulationRegisters>AccumulationRegister.Запасы</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.crm_РезервыТоваров</accumulationRegisters>
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ДополнительныеРеквизитыИСведения</chartsOfCharacteristicTypes>
