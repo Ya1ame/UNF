@@ -181,20 +181,20 @@
   <catalogs>Catalog.ДисконтныеКарты</catalogs>
   <catalogs>Catalog.Проекты</catalogs>
   <catalogs>Catalog.КассыККМ</catalogs>
+  <documents>Document.АктВыполненныхРабот</documents>
+  <documents>Document.ЗаказНаПроизводство</documents>
+  <documents>Document.ЗаказПокупателя</documents>
+  <documents>Document.ЗаказПоставщику</documents>
+  <documents>Document.ОтчетОРозничныхПродажах</documents>
+  <documents>Document.ПеремещениеЗапасов</documents>
+  <documents>Document.ПоступлениеВКассу</documents>
+  <documents>Document.ПоступлениеНаСчет</documents>
+  <documents>Document.ПриходнаяНакладная</documents>
   <documents>Document.РасходнаяНакладная</documents>
   <documents>Document.РезервированиеЗапасов</documents>
-  <documents>Document.ЧекККМ</documents>
-  <documents>Document.ЗаказПокупателя</documents>
-  <documents>Document.ПоступлениеНаСчет</documents>
-  <documents>Document.ПоступлениеВКассу</documents>
-  <documents>Document.ПеремещениеЗапасов</documents>
-  <documents>Document.ЗаказНаПроизводство</documents>
-  <documents>Document.ПриходнаяНакладная</documents>
-  <documents>Document.ОтчетОРозничныхПродажах</documents>
-  <documents>Document.ЧекККМВозврат</documents>
   <documents>Document.СчетНаОплату</documents>
-  <documents>Document.АктВыполненныхРабот</documents>
-  <documents>Document.ЗаказПоставщику</documents>
+  <documents>Document.ЧекККМ</documents>
+  <documents>Document.ЧекККМВозврат</documents>
   <enums>Enum.ВидыОперацийЗаказПокупателя</enums>
   <enums>Enum.ТипыНалогообложенияНДС</enums>
   <enums>Enum.СпособыДоставки</enums>
@@ -225,7 +225,9 @@
   <enums>Enum.СтатусыЧековККМ</enums>
   <enums>Enum.СостоянияДокументовЭДО</enums>
   <dataProcessors>DataProcessor.crm_RetailCRMОбработка</dataProcessors>
+  <dataProcessors>DataProcessor.МенеджерПодсказок</dataProcessors>
   <informationRegisters>InformationRegister.ДополнительныеСведения</informationRegisters>
+  <informationRegisters>InformationRegister.СостоянияПоОбъектамУчетаЭДО</informationRegisters>
   <informationRegisters>InformationRegister.ЦеныНоменклатуры</informationRegisters>
   <accumulationRegisters>AccumulationRegister.Запасы</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.crm_РезервыТоваров</accumulationRegisters>

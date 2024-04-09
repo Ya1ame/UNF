@@ -7714,6 +7714,7 @@
                             <horizontalAlign>Left</horizontalAlign>
                           </extInfo>
                         </extendedTooltip>
+                        <commandName>DataProcessor.МенеджерПодсказок.Command.ТиповыеСхемыУчета_Розница</commandName>
                         <representation>Auto</representation>
                         <autoMaxWidth>true</autoMaxWidth>
                         <autoMaxHeight>true</autoMaxHeight>

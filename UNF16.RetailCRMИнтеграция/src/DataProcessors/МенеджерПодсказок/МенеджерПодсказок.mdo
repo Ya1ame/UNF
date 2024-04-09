@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="22b38dc4-331b-4abd-a171-ad47c22d42fe" extendedConfigurationObject="fe63e191-fed0-4634-9093-d3d9a4fb2f34">
+  <producedTypes>
+    <objectType typeId="4642017d-9d82-4f52-b016-3195e2b13f27" valueTypeId="5fd8368f-a570-4195-a9d3-19184e432b8c"/>
+    <managerType typeId="db2a2b47-7255-4800-9863-2fa23427deba" valueTypeId="73604a7b-8d60-4d8b-a66d-46b19fb9d478"/>
+  </producedTypes>
+  <name>МенеджерПодсказок</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DataProcessorExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <useStandardCommands>true</useStandardCommands>
+  <commands uuid="e2956e43-f49f-4d6c-be61-55a8d410caae" extendedConfigurationObject="739ee60b-4ced-4f70-a060-c1dd8601ef2f">
+    <name>ТиповыеСхемыУчета_Розница</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicCommandExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <group>Checked</group>
+    </extension>
+    <group>FormNavigationPanelSeeAlso</group>
+  </commands>
+</mdclass:DataProcessor>

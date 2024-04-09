@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="d8c71580-4004-4b05-b9e9-05ccdacf2ed2" extendedConfigurationObject="94cb8fd8-e78e-4367-870e-e56a7e5e245d">
+  <producedTypes>
+    <selectionType typeId="ce220867-98a4-4532-94ca-81cd9259e019" valueTypeId="6e2b9c56-acc6-47ee-badd-529284509d3a"/>
+    <listType typeId="d0d8151d-b2db-4c27-9488-5d1d6ee6d5f8" valueTypeId="865d472a-b754-49e6-8742-af7bb46752ac"/>
+    <managerType typeId="de606575-f1c3-41e9-9465-c8298c44fb83" valueTypeId="b0cd3f0c-95b4-49d8-902a-1df8c91a9166"/>
+    <recordSetType typeId="ad91fac0-2f25-4e9e-be70-6a52d5df3817" valueTypeId="f279260d-91d1-4516-a80e-6f54021a0e9f"/>
+    <recordKeyType typeId="2a0b9a5e-d147-4311-889c-ef1d6eb511eb" valueTypeId="e5ad26de-4423-492b-98c8-58774699d514"/>
+    <recordType typeId="06e22375-ab9b-4ea5-9d60-ab22197a8f02" valueTypeId="eee3f0e3-293a-45de-89ea-890dada9da43"/>
+    <recordManagerType typeId="05a2d75b-b325-49d7-8134-aebb7171befc" valueTypeId="074b97da-6c33-4320-8762-96f218806a08"/>
+  </producedTypes>
+  <name>СостоянияПоОбъектамУчетаЭДО</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:InformationRegisterExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <informationRegisterPeriodicity>Checked</informationRegisterPeriodicity>
+    <writeMode>Checked</writeMode>
+  </extension>
+  <useStandardCommands>true</useStandardCommands>
+  <resources uuid="7da0b954-b474-407f-9ace-dd1423f20c50" extendedConfigurationObject="9eb44008-3db8-4c27-940d-149dfe89ffe0">
+    <name>СостояниеЭДО</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <typeExtension>
+        <types>
+          <state>Checked</state>
+          <type>EnumRef.СостоянияДокументовЭДО</type>
+        </types>
+      </typeExtension>
+    </extension>
+  </resources>
+</mdclass:InformationRegister>
