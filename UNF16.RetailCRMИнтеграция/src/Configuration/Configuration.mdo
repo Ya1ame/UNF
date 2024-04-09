@@ -225,7 +225,6 @@
   <enums>Enum.СтатусыЧековККМ</enums>
   <enums>Enum.СостоянияДокументовЭДО</enums>
   <dataProcessors>DataProcessor.crm_RetailCRMОбработка</dataProcessors>
-  <dataProcessors>DataProcessor.МенеджерПодсказок</dataProcessors>
   <informationRegisters>InformationRegister.ДополнительныеСведения</informationRegisters>
   <informationRegisters>InformationRegister.ЦеныНоменклатуры</informationRegisters>
   <accumulationRegisters>AccumulationRegister.Запасы</accumulationRegisters>
