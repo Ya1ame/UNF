@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7562deed-fec0-438d-b781-e26916042e30">
-  <name>ИнтеграцияRetailCRM</name>
+  <name>crm_ИнтеграцияRetailCRM</name>
   <synonym>
     <key>ru</key>
-    <value>RetailCRM</value>
+    <value>RetailCRM Интеграция</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>

@@ -43,7 +43,7 @@
     </extension>
     <languageCode>ru</languageCode>
   </languages>
-  <subsystems>Subsystem.ИнтеграцияRetailCRM</subsystems>
+  <subsystems>Subsystem.crm_ИнтеграцияRetailCRM</subsystems>
   <styleItems>StyleItem.crm_МодульУстановлен</styleItems>
   <styleItems>StyleItem.crm_РегистрацияСкладскойСистемы</styleItems>
   <styleItems>StyleItem.БудущиеПодпискиЦвет</styleItems>
